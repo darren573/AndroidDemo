@@ -30,7 +30,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".view.activity.RegisterActivity" />
-        <activity android:name=".view.activity.MenuActivity"></activity>
+        <activity android:name=".view.activity.MenuActivity" />
+        <activity android:name=".view.activity.UpdatePwdActivity"></activity>
     </application>
 
 </manifest>
